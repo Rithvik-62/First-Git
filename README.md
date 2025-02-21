@@ -1,4 +1,4 @@
 # First-Git
-first time started using Git-Hub
+First time started using Git-Hub.com
 <br>
-learning....
+learning...
